@@ -2,4 +2,4 @@
 
 In this repository there are all files associated to our manuscript "Enzyme stability-activity trade-off: new insights from protein stability weaknesses and evolutionary conservation". Here their list:
 
-• EnzymeStability.zip: Per-site folding free energy contribution ∆Gi (in kcal/mol) for each residue i belonging to each enzyme in our dataset as a function of the distance d_i (in Ångström) from the closest catalytic residue, averaged over bins of 1.5 Ångström. 
+• EnzymeStability.zip: File containing the plot for each enzyme in our dataset of the per-site folding free energy contribution ∆Gi (in kcal/mol) of residue i as a function of the distance d_i (in Ångström) from the closest catalytic residue, averaged over bins of 1.5 Ångström. 
